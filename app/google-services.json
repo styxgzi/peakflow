@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573528497599",
+    "project_id": "peakflow-ai",
+    "storage_bucket": "peakflow-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573528497599:android:18602655761f05b8ead50a",
+        "android_client_info": {
+          "package_name": "com.peakflow.you_must_not_cheat_yourself_your_parents_raised_a_soldier_prove_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzkVKJIlq2eyifsqab88bknL9olnX48t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
